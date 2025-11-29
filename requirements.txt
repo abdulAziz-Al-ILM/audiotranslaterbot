@@ -4,3 +4,4 @@ pydub
 SpeechRecognition
 deep-translator
 python-dotenv
+gtts
