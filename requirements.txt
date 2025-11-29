@@ -1,0 +1,6 @@
+aiogram==3.10.0
+requests
+pydub
+SpeechRecognition
+deep-translator
+python-dotenv
